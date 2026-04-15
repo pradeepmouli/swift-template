@@ -6,14 +6,14 @@ public struct ContentView: View {
             Text("SwiftTemplate")
                 .font(.largeTitle)
                 .fontWeight(.bold)
-            
+
             Text("A modern Swift template")
                 .font(.subheadline)
                 .foregroundStyle(.secondary)
         }
         .padding()
     }
-    
+
     public init() {}
 }
 

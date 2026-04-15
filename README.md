@@ -56,7 +56,7 @@ Types exposed to app targets need `public` access:
 ```swift
 public struct MyView: View {
     public init() {}
-    
+
     public var body: some View {
         // Your view code
     }
